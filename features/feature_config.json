@@ -1,0 +1,13 @@
+{
+  "alpha": 0.5,
+  "tfidf_max_features": 20000,
+  "tfidf_ngram_range": [
+    1,
+    2
+  ],
+  "w2v_vector_size": 100,
+  "w2v_window": 5,
+  "w2v_min_count": 3,
+  "w2v_sg": 1,
+  "docs_processed": 5000
+}
