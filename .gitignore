@@ -1,3 +1,4 @@
 clean_data/
 data/
 *.csv
+features/advanced_model.pkl
